@@ -61,7 +61,3 @@ ng build --prod
 ## 👩‍💻 Pessoas desenvolvedoras
 
 - Gabrielly Mossa
-
----
-
-Se quiser, posso também adicionar badges, instruções de deploy ou uma seção de contribuições. Deseja que eu inclua algo mais? 💡
